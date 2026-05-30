@@ -1,6 +1,8 @@
 # 🪡 KaushalSetu — Digital Marketplace for Local Micro-Entrepreneurs
 
 > *Kaushal* (skill) + *Setu* (bridge) = Bridging India's artisans with customers.
+> KaushalSetu is a digital marketplace built to solve a real problem — several skilled micro-entrepreneurs in India like cobblers, potters, tailors and artisans have no online presence and rely entirely on foot traffic. This platform gives them a professional profile, a product storefront with image uploads, and a direct way to receive and manage service requests from customers.
+It features JWT authentication, three-level role-based access control (customer, artisan, admin), a full order management system, service request workflow, product reviews, and an admin panel for platform management.
 
 ## Tech Stack
 - **Frontend**: React.js · Tailwind CSS · React Router · Axios · React Hot Toast
@@ -115,10 +117,9 @@ Database → kaushalsetu → users → find user → set role: "admin"
 
 ---
 
-## Future Enhancements (from PRD)
+## Future Enhancements 
 - [ ] Mobile apps (React Native)
-- [ ] Digital payments (Razorpay integration)
 - [ ] Logistics & delivery tracking
 - [ ] Skill training & certification modules
 - [ ] AI-based artisan recommendations
-- [ ] WhatsApp notifications
+
